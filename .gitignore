@@ -1,0 +1,4 @@
+# Files to be ignored in the repository #
+/node_modules
+/**/.DS_Store
+.DS_Store
